@@ -32,5 +32,5 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            carbuc2/imagen:latest
+            tuusuariodockerhub/imagen:latest
             
