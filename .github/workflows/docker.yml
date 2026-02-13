@@ -32,4 +32,4 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            carbuc2/imagen:newplaneta
+            carbuc2/newplaneta:latest
